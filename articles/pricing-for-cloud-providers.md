@@ -1,6 +1,6 @@
 <!-- Title: Pricing for Cloud Providers -->
 ## Pricing for Cloud Providers
-TLDR:
+TLDR:N
 
 Here is the Pricing Table for all  4 major Cloud Providers.
 
@@ -42,7 +42,7 @@ The Pricing will be based on General Purpose CPU for on-demand Instances.
 
 **Proof:**
 
-![](https://raw.githubusercontent.com/Chetan11-dev/system-design/master/images/articles/pricing-for-cloud-providers/https://raw.githubusercontent.com/Chetan11-dev/system-design/master/images/articles/pricing-for-cloud-providers/gcp-cpu.png)
+![](https://raw.githubusercontent.com/Chetan11-dev/system-design/master/images/articles/pricing-for-cloud-providers/gcp-cpu.png)
 
 **Estimation:**
 
