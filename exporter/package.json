@@ -1,0 +1,21 @@
+{
+    "name": "web",
+    "version": "0.0.0",
+    "dependencies": {
+        "@elastic/datemath": "^5.0.3",
+        "@elastic/eui": "^70.2.0",
+        "@emotion/css": "^11.10.5",
+        "@emotion/react": "^11.10.5",
+        "@redwoodjs/auth": "3.4.0",
+        "@redwoodjs/forms": "3.4.0",
+        "@redwoodjs/router": "3.4.0",
+        "@redwoodjs/web": "3.4.0",
+        "@subhamx/notion-to-ebook": "^1.0.3",
+        "humanize-string": "2.1.0",
+        "moment": "^2.29.4",
+        "prop-types": "^15.8.1",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "recoil": "^0.7.6"
+    }
+}
